@@ -13,9 +13,14 @@
 
 ---
 [Project 3 swirl effect](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="swirl.png?raw=true"/>
 
 ---
+[Project 4 skater](http://example.com/)
+<img src="skater.png?raw=true"/>
+
+[Project 4 galaxy effect](http://example.com/)
+<img src="galaxy.png?raw=true"/>
 
 ### Category Name 2
 

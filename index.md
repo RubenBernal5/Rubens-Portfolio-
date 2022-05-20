@@ -8,11 +8,11 @@
 <img src="images/Blendimages.jpeg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 2 ripped effect](/pdf/sample_presentation.pdf)
+<img src="images/rippedeffect.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 swirl effect](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---

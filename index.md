@@ -23,7 +23,7 @@
 <img src="images/galaxy image.png?raw=true"/>
 
 [Project 5 surrealism](http://example.com/)
-<img src="images/sureal.png?raw=true"/>
+<img src="images/surreal.png?raw=true"/>
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)

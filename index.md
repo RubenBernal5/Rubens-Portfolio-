@@ -28,6 +28,9 @@
 [Project 6 popart](http://example.com/)
 <img src="images/popart.png?raw=true"/>
 
+
+[Project 7 cool](http://example.com/)
+<img src="images/cool.png?raw=true"/>
 ---
 
 

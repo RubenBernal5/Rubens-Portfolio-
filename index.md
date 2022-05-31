@@ -19,17 +19,17 @@
 [Project 4 skater](http://example.com/)
 <img src="images/skater.png?raw=true"/>
 
-[Project 4 galaxy effect](http://example.com/)
+[Project 5 galaxy effect](http://example.com/)
 <img src="images/galaxy image.png?raw=true"/>
 
-[Project 5 surrealism](http://example.com/)
+[Project 6 surrealism](http://example.com/)
 <img src="images/surreal.png?raw=true"/>
 
-[Project 6 popart](http://example.com/)
+[Project 7 popart](http://example.com/)
 <img src="images/popart.png?raw=true"/>
 
 
-[Project 7 cool](http://example.com/)
+[Project 8 cool](http://example.com/)
 <img src="images/cool.png?raw=true"/>
 ---
 

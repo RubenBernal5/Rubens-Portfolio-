@@ -25,6 +25,8 @@
 [Project 5 surrealism](http://example.com/)
 <img src="images/surreal.png?raw=true"/>
 
+[Project 6 popart](http://example.com/)
+<img src="images/popart.png?raw=true"/>
 
 ---
 

@@ -9,7 +9,7 @@
 
 ---
 [Project 2 ripped effect](/pdf/sample_presentation.pdf)
-<img src="images/rippedeffect.png?raw=true"/>
+<img src="images/ripped effect.png?raw=true"/>
 
 ---
 [Project 3 swirl effect](http://example.com/)
